@@ -9,7 +9,8 @@
   "author": "Piyush",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "*",
-    "express": "*"
+    "ejs": "^2.6.1",
+    "express": "*",
+    "socket.io": "*"
   }
 }
