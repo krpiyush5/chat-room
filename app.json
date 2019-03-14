@@ -1,0 +1,7 @@
+{
+	"name":"A simple chat app",
+	"description":"A simple chat room using socket.io and express",
+	"repository":"https://github.com/krpiyush5/a-simple-chat-room",
+	"keywords":["node","express","static"],
+	
+}
